@@ -59,17 +59,20 @@ print(f"Predicted value: {pre}")
 
 Dataset :
 
-![Uploading 420557884-47c95712-9877-42c5-80cf-fc7ded975c5a.png…]()
+![420557884-47c95712-9877-42c5-80cf-fc7ded975c5a](https://github.com/user-attachments/assets/ce9788af-a7b9-4170-935b-7f0c3f893d77)
+
 
 
 X nd Y values:
 
-![Uploading 420557950-cd7bdcb7-226d-4483-93b2-dd30efb6c495.png…]()
+![420557950-cd7bdcb7-226d-4483-93b2-dd30efb6c495](https://github.com/user-attachments/assets/0637cc1e-6cc5-4092-8f6d-b2e1fc2aed67)
+
 
 
 Predicted Value :
 
-![Uploading 420558041-53dca760-cebb-4b12-bf36-a46e47d8c2c1.png…]()
+![420558041-53dca760-cebb-4b12-bf36-a46e47d8c2c1](https://github.com/user-attachments/assets/ea230468-1090-40a6-aa1e-b23041cc51a1)
+
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
